@@ -1,0 +1,18 @@
+c:\users\frollog\documents\visual studio 2015\Projects\TestRectangle\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\frollog\documents\visual studio 2015\Projects\TestRectangle\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+c:\users\frollog\documents\visual studio 2015\Projects\TestRectangle\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\frollog\documents\visual studio 2015\Projects\TestRectangle\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\frollog\documents\visual studio 2015\Projects\TestRectangle\ConsoleApplication1\bin\Debug\FSharp.Core.dll
+c:\users\frollog\documents\visual studio 2015\Projects\TestRectangle\ConsoleApplication1\bin\Debug\FSharp.Core.xml
+c:\users\frollog\documents\visual studio 2015\Projects\TestRectangle\ConsoleApplication1\bin\Debug\ru\FSharp.Core.resources.dll
+c:\users\frollog\documents\visual studio 2015\Projects\TestRectangle\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\frollog\documents\visual studio 2015\Projects\TestRectangle\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\prj\TestRectangle\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\prj\TestRectangle\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+D:\prj\TestRectangle\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\prj\TestRectangle\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\prj\TestRectangle\ConsoleApplication1\bin\Debug\FSharp.Core.dll
+D:\prj\TestRectangle\ConsoleApplication1\bin\Debug\FSharp.Core.xml
+D:\prj\TestRectangle\ConsoleApplication1\bin\Debug\ru\FSharp.Core.resources.dll
+D:\prj\TestRectangle\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\prj\TestRectangle\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
